@@ -18,8 +18,8 @@ A production-ready semantic search application for a news corpus. It retrieves r
   - Summarization: `facebook/bart-large-cnn`
   - Q&A: `google/flan-t5-base`
 - Interfaces:
-  - CLI (deployment requirement)
-  - Streamlit (bonus/demo)
+  - CLI 
+  - Streamlit 
 
 ## Project Structure
 ```text
